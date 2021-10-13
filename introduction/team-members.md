@@ -1,9 +1,9 @@
 # Team Members
 
-| Name          | Andrew ID | EMail                                                     |
-| ------------- | --------- | --------------------------------------------------------- |
-| Ninglin Liu   | ninglinl  | [ninglinl@andrew.cmu.edu](mailto:ninglinl@andrew.cmu.edu) |
-| Jianbing Gong | jianbin2  | [jianbin2@andrew.cmu.edu](mailto:jianbin2@andrew.cmu.edu) |
-| Shu Wu        | shuwu     | [shuwu@andrew.cmu.edu](mailto:shuwu@andrew.cmu.edu)       |
-| Xiaotin Wang  | xiaotinw  | [xiaotinw@andrew.cmu.edu](mailto:xiaotinw@andrew.cmu.edu) |
+| Name          | Department                    | Andrew ID                                  |
+| ------------- | ----------------------------- | ------------------------------------------ |
+| Ninglin Liu   | CMU Heinz College - MISM      | [ninglinl](mailto:ninglinl@andrew.cmu.edu) |
+| Jianbing Gong | CMU Heinz College - MISM      | [jianbin2](mailto:jianbin2@andrew.cmu.edu) |
+| Shu Wu        | CMU Heinz College - MISM BIDA | [shuwu](mailto:shuwu@andrew.cmu.edu)       |
+| Xiaotin Wang  | CMU Heinz College - MISM BIDA | [xiaotinw](mailto:xiaotinw@andrew.cmu.edu) |
 
