@@ -1,8 +1,8 @@
 # Business Architecture
 
-![](<../../.gitbook/assets/business architecture.jpg>)
+![](<../../.gitbook/assets/business architecture (2).jpg>)
 
-The whole project splits into two systems, one for customers online shopping, the other one for admin users. As we using the django-rest framework, the back-end just provides REST API for the front-end that using jQuery to call REST API. The inital business requirements shows below, and we will privode a detailed requirements specification in the next week.
+The whole project splits into two systems, one for customers' online shopping, the other one for admin users. As we using the Django-rest framework, the back-end just provides REST API for the front-end that using jQuery to call REST API. The initial business requirements show below, and we will provide a detailed requirements specification in the next week.
 
 ### Online Store (for customers)
 
