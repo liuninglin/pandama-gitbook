@@ -1,7 +1,3 @@
----
-coverY: 0
----
-
 # UI/UX Designs
 
 ### Online Store
