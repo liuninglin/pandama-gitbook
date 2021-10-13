@@ -32,7 +32,7 @@
 
 #### git commit rule
 
-1.
+1. initial letter must be capital
 2. start with the verb (e.g. "Repair the issue of ....", "Add new model for the shopping cart")
 3. commit each minor change as much as you can (don't commit too many files with just one commit)
 4. don't commit your local useless files or sensitive files to the remote repository
