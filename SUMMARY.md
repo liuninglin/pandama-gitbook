@@ -14,6 +14,7 @@
 * [Tech Analysis](analysis-and-designs/tech-analysis/README.md)
   * [Tech Stack](analysis-and-designs/tech-analysis/tech-stack.md)
   * [Tech Architecture](analysis-and-designs/tech-analysis/tech-architecture.md)
+  * [🚧 REST API Designs](analysis-and-designs/tech-analysis/rest-api-designs.md)
 
 ## Project Management
 
