@@ -1,8 +1,6 @@
 # Git Standards
 
-![git branch management](<../.gitbook/assets/git brach management.jpg>)
-
-
+![git branch management](<../../.gitbook/assets/git brach management.jpg>)
 
 #### branches
 
