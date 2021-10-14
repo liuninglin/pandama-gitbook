@@ -15,15 +15,15 @@
   * [Tech Stack](analysis-and-designs/tech-analysis/tech-stack.md)
   * [Tech Architecture](analysis-and-designs/tech-analysis/tech-architecture.md)
 
-## Development Standards
-
-* [Git Standards](development-standards/git-standards.md)
-* [Naming Standards](development-standards/naming-standards.md)
-
 ## Project Management
 
 * [Agile](project-management/agile.md)
 * [Project Schedule](project-management/project-schedule.md)
+
+## Development Standards
+
+* [Git Standards](development-standards/git-standards.md)
+* [Naming Standards](development-standards/naming-standards.md)
 
 ## Development
 
