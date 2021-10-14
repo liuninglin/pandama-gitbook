@@ -1,7 +1,7 @@
 # Project Brief
 
-![License Badge](https://img.shields.io/badge/license-MIT%20License-blue)<space><space>
-[![Slack Badge](https://img.shields.io/badge/slack-cmu--pandama-red)](http://cmu-pandama.slack.com)<space><space>
+![License Badge](https://img.shields.io/badge/License-MIT%20License-blue)<space><space>
+[![Slack Badge](https://img.shields.io/badge/Slack-CMU--Pandama-red)](http://cmu-pandama.slack.com)<space><space>
 ![Python Badge](https://img.shields.io/badge/Python-3.8-brightgreen)<space><space>
 ![Django Badge](https://img.shields.io/badge/Django-3.2-green)<space><space>
 ![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-3.3.7-blueviolet)<space><space>
