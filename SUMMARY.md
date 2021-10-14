@@ -20,6 +20,11 @@
 * [Git Standards](development-standards/git-standards.md)
 * [Naming Standards](development-standards/naming-standards.md)
 
+## Project Management
+
+* [Agile](project-management/agile.md)
+* [Project Schedule](project-management/project-schedule.md)
+
 ## Development
 
 * [API Specification](development/api-specification.md)
