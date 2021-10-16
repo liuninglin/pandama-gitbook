@@ -25,7 +25,7 @@
 
 * [Development Standards](development/development-standards/README.md)
   * [Git Standards](development/development-standards/git-standards.md)
-  * [🚧 Naming Standards](development/development-standards/naming-standards.md)
+  * [🚧 Development Standards](development/development-standards/naming-standards.md)
 * [🚧 API Documentation](development/api-specification.md)
 * [Key Data Flows](development/key-data-flows/README.md)
   * [ShoppingCart Read Data Flow](development/key-data-flows/shoppingcart-read-data-flow.md)
